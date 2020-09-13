@@ -1,3 +1,4 @@
 env 
 checkers/__pycache__
 .gitignore
+.vscode
